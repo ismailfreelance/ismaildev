@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ismaildev/static/css/main.0ac9a932.css",
+    "main.js": "/ismaildev/static/js/main.22fe3151.js",
+    "index.html": "/ismaildev/index.html",
+    "main.0ac9a932.css.map": "/ismaildev/static/css/main.0ac9a932.css.map",
+    "main.22fe3151.js.map": "/ismaildev/static/js/main.22fe3151.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ac9a932.css",
+    "static/js/main.22fe3151.js"
+  ]
+}
